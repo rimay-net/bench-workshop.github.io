@@ -381,3 +381,8 @@ respective licenses and usage terms.
 ## V1 Build Note
 
 The storefront is intentionally self-contained: product and editorial assets are stored locally so the demo does not depend on remote image hosts. The visual system uses a dark industrial palette with safety-yellow accents and is designed specifically around workshop organization rather than a generic hardware-store layout.
+
+
+## V2 Image Quality Update
+
+V2 refreshes the storefront image layer using higher-quality local WebP encoding, increased product-image resolution, and restrained sharpening. The original image composition and product assignments are preserved; only image rendering quality was improved.
